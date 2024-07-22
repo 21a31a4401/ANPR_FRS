@@ -1,7 +1,0 @@
-Python==3.7.4
-OpenCV==4.x
-Pytesseract
-Numpy
-imutils
-TensorFlow
-dlib
